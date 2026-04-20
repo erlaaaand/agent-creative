@@ -1,0 +1,168 @@
+{
+  "region": "ID",
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T20:26:46.450704Z",
+  "scripts": [
+    {
+      "document_id": "trend_vissel_kobe_vs_al_ahli_20260420",
+      "topic": "Vissel Kobe vs Al-Ahli",
+      "production_metadata": {
+        "target_duration_seconds": 60,
+        "platform": "YouTube Shorts / TikTok",
+        "voiceover_style": "Energetic, casual Indonesian Gen-Z",
+        "bgm_mood": "Tense, dramatic beat"
+      },
+      "distribution_assets": {
+        "suggested_title": "Vissel Kobe vs Al-Ahli: Justin Hubner's Telak Kekalahan 👀",
+        "primary_keywords": [
+          "Vissel Kobe",
+          "Al-Ahli",
+          "Cerezo Osaka",
+          "Justin Hubner"
+        ],
+        "recommended_hashtags": [
+          "#VisselKobe",
+          "#AlAhli",
+          "#CerezoOsaka",
+          "#JustinHubner"
+        ]
+      },
+      "scenes": [
+        {
+          "scene_number": 1,
+          "estimated_duration_sec": 8.5,
+          "visual_prompt": "Close-up shot of a football player's face, intense lighting",
+          "audio_narration": "Tahukah kamu bahwa Justin Hubner, pemain Timnas Indonesia, kalah telak dari Vissel Kobe saat bermain untuk Cerezo Osaka?",
+          "on_screen_text": "KABAR Mengejutkan 👀"
+        },
+        {
+          "scene_number": 2,
+          "estimated_duration_sec": 12.5,
+          "visual_prompt": "Cut to a montage of Vissel Kobe's winning moments, fast-paced editing",
+          "audio_narration": "Pertandingan AFC Juara Liga Elite ini menjadi bagian dari laga yang menegangkan untuk Justin Hubner dan Cerezo Osaka. Namun, Vissel Kobe tidak peduli dengan kemenangan mereka!",
+          "on_screen_text": "Vissel Kobe MENGALAHKAN 🏆"
+        },
+        {
+          "scene_number": 3,
+          "estimated_duration_sec": 10.5,
+          "visual_prompt": "Cut to a shot of Justin Hubner's reaction, disappointed expression",
+          "audio_narration": "Justin Hubner tampaknya sangat kecewa dengan kalahannya dari Vissel Kobe. Apakah ini akhir karier sepak bola baginya?",
+          "on_screen_text": "JUSTIN HUBNER KALAH TELAK 😔"
+        },
+        {
+          "scene_number": 4,
+          "estimated_duration_sec": 5.0,
+          "visual_prompt": "Cut to a shot of the Cerezo Osaka team, dejected expressions",
+          "audio_narration": "Jangan lupa sukai, komen, dan ikuti akun ini buat info seru lainnya tentang sepak bola!",
+          "on_screen_text": "INFO SERU LAINNYA 📢"
+        }
+      ]
+    },
+    {
+      "document_id": "trend_ryan_giggs_20260420",
+      "topic": "Ryan Giggs",
+      "production_metadata": {
+        "target_duration_seconds": 60,
+        "platform": "YouTube Shorts/TikTok",
+        "voiceover_style": "Energetic, casual Indonesian Gen-Z",
+        "bgm_mood": "Tense, dramatic beat"
+      },
+      "distribution_assets": {
+        "suggested_title": "Ryan Giggs Kembali Melatih Manchester United! 🏆🔥",
+        "primary_keywords": [
+          "Ryan Giggs",
+          "Manchester United",
+          "Pelatihan"
+        ],
+        "recommended_hashtags": [
+          "#RyanGiggs",
+          "#ManchesterUnited",
+          "#Pelatihan"
+        ]
+      },
+      "scenes": [
+        {
+          "scene_number": 1,
+          "estimated_duration_sec": 8.5,
+          "visual_prompt": "Cinematic close-up, dramatic lighting, 4k",
+          "audio_narration": "Tahukah kamu Ryan Giggs mau kembali melatih Manchester United? Berita ini bikin kita super antusias!",
+          "on_screen_text": "GIGGS IS BACK 👀💪"
+        },
+        {
+          "scene_number": 2,
+          "estimated_duration_sec": 12.5,
+          "visual_prompt": "Fast-paced montage of Manchester United's matches, dramatic music",
+          "audio_narration": "Ryan Giggs mau kembali melatih Manchester United deket! Berapa banyak transfer gelandang yang bakal terjadi? Menurut sumber-sumber, Giggs ngeberi saran ke pelatih Manchester United tentang transfer gelandang.",
+          "on_screen_text": "STRATEGI GIGGS REVEALED 🔓"
+        },
+        {
+          "scene_number": 3,
+          "estimated_duration_sec": 10.5,
+          "visual_prompt": "Interview-style visuals, serious tone",
+          "audio_narration": "Pelatih Manchester United super antusias sama saran Giggs! Mereka rencanain nyetok beberapa gelandang yang bakal nambah kuat tim mereka.",
+          "on_screen_text": "SARAN GIGGS TAKES EFFECT 🔄"
+        },
+        {
+          "scene_number": 4,
+          "estimated_duration_sec": 15.5,
+          "visual_prompt": "Exciting montage of Manchester United's matches, upbeat music",
+          "audio_narration": "Jangan lupa sukai, komen, dan ikuti akun ini buat info seru lainnya tentang Ryan Giggs dan Manchester United! Jangan sampai ketinggalan out on the latest news and updates about Ryan Giggs and Manchester United!",
+          "on_screen_text": "PANTAU TERUS UNTUK INFO LEBIH LANJUT 🔜"
+        }
+      ]
+    },
+    {
+      "document_id": "trend_vissel_kobe_20260420",
+      "topic": "Vissel Kobe",
+      "production_metadata": {
+        "target_duration_seconds": 60,
+        "platform": "YouTube Shorts/TikTok",
+        "voiceover_style": "Energetic, casual Indonesian Gen-Z",
+        "bgm_mood": "Tense, dramatic beat"
+      },
+      "distribution_assets": {
+        "suggested_title": "Vissel Kobe Lolos Ke Babak Perempat Final! 🏆🔥",
+        "primary_keywords": [
+          "Vissel Kobe",
+          "FC Seoul",
+          "AFC Champions League"
+        ],
+        "recommended_hashtags": [
+          "#VisselKobe",
+          "#FCSeoul",
+          "#AFCChampionsLeague"
+        ]
+      },
+      "scenes": [
+        {
+          "scene_number": 1,
+          "estimated_duration_sec": 8.5,
+          "visual_prompt": "Cinematic close-up, dramatic lighting, 4k",
+          "audio_narration": "Tahukah kamu Vissel Kobe lolos ke babak Perempat Final AFC Juara Liga Elite? Mereka berhasil mengalahkan FC Seoul 2-1 dalam laga yang menegangkan!",
+          "on_screen_text": "Vissel Kobe 👉"
+        },
+        {
+          "scene_number": 2,
+          "estimated_duration_sec": 10.5,
+          "visual_prompt": "Fast-paced cuts, upbeat background music",
+          "audio_narration": "Dalam pertandingan yang menegangkan, Vissel Kobe berhasil mengalahkan FC Seoul dengan skor 2-1! Mereka mempertahankan kemenangan dan lolos ke babak Perempat Final.",
+          "on_screen_text": "Vissel Kobe vs FC Seoul 👊"
+        },
+        {
+          "scene_number": 3,
+          "estimated_duration_sec": 9.0,
+          "visual_prompt": "Reactions of fans, loud cheering",
+          "audio_narration": "Para penggemar Vissel Kobe sangat bersemangat dan senang dengan kemenangan timnya! Mereka memuji performa tim dan menantikan babak Perempat Final.",
+          "on_screen_text": "Vissel Kobe Para penggemar 👏"
+        },
+        {
+          "scene_number": 4,
+          "estimated_duration_sec": 5.0,
+          "visual_prompt": "Call-to-action, bold text",
+          "audio_narration": "Jangan lupa sukai, komen, dan ikuti akun ini buat info seru lainnya tentang Vissel Kobe!",
+          "on_screen_text": "Vissel Kobe 💪"
+        }
+      ]
+    }
+  ]
+}
